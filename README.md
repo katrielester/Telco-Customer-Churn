@@ -38,8 +38,8 @@ Customer churn, or attrition, is the loss of clients, which is a critical concer
 
 ## Business Recommendation
 1. Focus on early retention efforts for new customers by offering welcome incentives and personalized support during the first 12 months.
-2. ffer targeted discounts or tiered pricing for customers with high monthly charges to address price sensitivity.
-3. romote long-term contracts with attractive incentives, as customers on longer-term plans are less likely to churn.
+2. Offer targeted discounts or tiered pricing for customers with high monthly charges to address price sensitivity.
+3. Promote long-term contracts with attractive incentives, as customers on longer-term plans are less likely to churn.
 4. Upsell value-added services like online security, online backup, and tech support, as these services contribute to higher retention.
 5. Address common complaints or concerns related to fiber optic internet service to reduce churn in that customer segment.
 6. Leverage entertainment services like streaming TV and movies as part of retention strategies by bundling them into attractive packages.
@@ -52,4 +52,7 @@ Customer churn, or attrition, is the loss of clients, which is a critical concer
 ## Prediction Dashboard and Apps
 - Visit the dashboard [here](https://public.tableau.com/app/profile/katriel.e2881/viz/CHURNINGVISUALIZATION/Story1)
 - Visit the app [here](https://churn-prediction-telco.streamlit.app/)
+
+## Acknowledgment
+The team consists of Katriel Ester Amanda (@katrielester) and Niken Andika Putri (@nikenap).
 
